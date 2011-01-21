@@ -1,0 +1,7 @@
+t/options_ok.t
+README
+lib/Plack/Middleware/OptionsOK.pm
+MANIFEST
+Changes
+Makefile.PL
+META.yml                                 Module meta-data (added by MakeMaker)
